@@ -50,3 +50,5 @@
 
 
 > **Nota:** Los ejercicios resueltos y los de la clase se encuentran sin la carpeta node_modules, por lo tanto si desean correr alguno de ellos se deberán parar en la carpeta y ejecutar el comando **npm install**
+
+Tocado por Fabián Alejandro Banderas Benítez
